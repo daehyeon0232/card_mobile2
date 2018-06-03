@@ -105,7 +105,7 @@ main section h3{font-family: 'Open Sans', sans-serif; font-weight: 400; position
 	#part3 #section2 article img{position: relative; width: 78vw; padding: 20px 0 10px 0;}
 	#part3 #section2 div{width: 78vw;}
 	#part3 #section2 div img{width: 78vw;}
-	#part3 #section2 div h4{width: 78vw; padding: 10px;}
+	#part3 #section2 div h4{width: 78vw; padding: 10px 0 0 0;}
 }
 
 footer{width: 100vw; height: 60px; background: #211826; margin: 100px 0 0 0;}
